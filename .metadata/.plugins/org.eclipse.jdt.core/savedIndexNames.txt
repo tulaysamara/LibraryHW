@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+/Users/tulaysamara/Desktop/LibraryHW/.metadata/.plugins/org.eclipse.jdt.core
+1026034551.index
+1865797976.index
+3055931853.index
